@@ -25,8 +25,31 @@ Implemented a Role-Based Access Control (RBAC) model for a simulated organizatio
 - Tested permissions using different IAM users.
 
 ## Project Screenshots
-Screenshots documenting the implementation will be added to this repository.
+## Project Screenshots
 
+### Project Overview
+![Project Overview](00-Project-Overview.jpeg)
+
+### IAM Users
+![IAM Users](01-IAM-Users.jpeg)
+
+### IAM Groups
+![IAM Groups](02-IAM-Groups.jpeg)
+
+### DevOps IAM Group
+![DevOps Group](03-DevOps-IAM-Group.jpeg)
+
+### DevOps IAM Policy
+![DevOps Policy](04-DevOps-IAM-Policy.jpeg)
+
+### Custom IAM Policies
+![Custom Policies](05-IAM-Custom-Policies.jpeg)
+
+### EC2 Running Instance
+![EC2 Instance](06-EC2-Running-Instance.jpeg)
+
+### S3 Department-Wise Buckets
+![S3 Buckets](07-S3-Department-Wise-Buckets.jpeg)
 ## Key Learnings
 - IAM Users, Groups, Roles and Policies
 - Role-Based Access Control (RBAC)
