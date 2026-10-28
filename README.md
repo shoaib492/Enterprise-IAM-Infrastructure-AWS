@@ -1,5 +1,5 @@
 # Enterprise IAM Infrastructure on AWS
-
+![Enterprise IAM Infrastructure on AWS](00-Project-Overview.jpeg)
 ## Project Overview
 Implemented a Role-Based Access Control (RBAC) model for a simulated organization, ABC Technologies, using AWS IAM.
 
